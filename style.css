@@ -1,0 +1,74 @@
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 80%;
+}
+.header{
+    width: 100%;
+    height: 20%;
+}
+.logo
+{
+    text-align: left;
+    padding: 0.6%;
+    width: 50%;
+    
+}
+.login{
+    right: 50%;
+}
+.rs{
+    text-align: right;
+    white-space: 50%;
+    width: 50%;
+    margin-left: 50%;
+}
+.container{
+    width: auto;
+    height: 20px;
+    background-color: rgba(27, 56, 216, 0.274);
+    position: fixed;
+    margin-top: 0;
+
+}
+.footer{
+    align-content: bottom;
+    text-align: center;
+    height: 40%;
+
+}
+.white{
+    width: 100%;
+    height: 80%;
+}
+.reg{
+    text-align: center;
+    background-color:lightblue;
+    padding: 2%;
+}
+.name{
+    width: 50%;
+}
+.footer-section{
+    text-align: center;
+    font-size: 40%;
+    bottom: 80%;
+}
+.Button{
+    width: 50%;
+    height: 30%;
+    background-color: black;
+}
+.form-control{
+    width: 50%;
+    border-radius: 10%;
+}
+.context
+{
+    height: 50%;
+}
+.login-form
+{
+    position: absolute;
+}
